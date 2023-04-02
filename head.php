@@ -5,7 +5,7 @@
 <title>RegistroUTP</title>
 
 <!-- Bootstrap core CSS -->
-<link href="resources/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="dist/css/bootstrap.min.css" rel="stylesheet">
 <!-- Custom styles for this template -->
-<link href="resources/assets/sticky-footer-navbar.css" rel="stylesheet">
+<link href="assets/sticky-footer-navbar.css" rel="stylesheet">
 <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
